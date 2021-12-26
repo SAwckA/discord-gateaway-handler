@@ -1,2 +1,3 @@
-# discord-gateaway-handler
+# discord-gataway-handler
  
+Обработчик событий discord
